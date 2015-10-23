@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImageChooser</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="choosefromphone">从手机选择</string>
+    <string name="choosefromcamera">拍照</string>
+</resources>
